@@ -1,4 +1,4 @@
-<h1 align="center">Sistema Escolar</h1>
+<h1 align="center">Pedra Papel Tesoura Lagarto Spock</h1>
 
 <h4 align="center"> 
 	☕  Java project  ☕ FINALIZADO  ☕
